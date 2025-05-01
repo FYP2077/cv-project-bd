@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-transformers
-torch
-torchaudio
-ultralytics
-opencv-python-headless
-pydantic
